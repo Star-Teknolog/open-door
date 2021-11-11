@@ -1,0 +1,3 @@
+git klon https://github.com/starteknoloji/open-door-ghsa-crgc-f438-rg65.git
+cd açık kapı-ghsa-crgc-f438-rg65
+git checkout -b danışma düzeltme-1
